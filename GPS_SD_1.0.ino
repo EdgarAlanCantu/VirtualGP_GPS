@@ -1,9 +1,9 @@
+//EACM
 /* Conexion pines
      Arduino        GPS         
         D3           RX
         D4           TX
         Funciona con modulo SD
-        Chat GPT
         7/12/23
           
   */
