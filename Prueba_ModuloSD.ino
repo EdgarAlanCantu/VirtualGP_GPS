@@ -1,3 +1,7 @@
+//EACM
+/*
+Prueba de Modulo SD "Testing"
+*/
 #include <SPI.h>
 #include <SD.h>
 
